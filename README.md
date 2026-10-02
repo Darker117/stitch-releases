@@ -12,19 +12,20 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/story.png" alt="Playing a story with generated scenes" width="900">
+  <img src="docs/screenshots/story.png" alt="Playing a story: every turn illustrated, with the characters' lines in speech bubbles" width="900">
 </p>
 
 ## What is Stitch?
 
-Stitch brings two creative tools together in one desktop app:
+Stitch puts a whole creative studio in one desktop app, running on your own graphics card:
 
-- **A studio** for making images, video, music and voices.
-- **A story engine** where you play through interactive adventures that illustrate, animate and narrate themselves as you go.
+- **Stories that see, speak and move.** Play interactive adventures that illustrate every turn, letter the dialogue into speech bubbles, animate scenes into clips and read each line in the right character's voice.
+- **Characters that stay themselves.** Create a character once and they look and sound the same in every picture, clip, voice line and story.
+- **A studio for everything else.** Images, video, voices and full songs. There's also a video editor and a music studio with stem splitting and a DAW, whose effects Stitch can write for you.
+- **Talk to it, or hand it the work.** Chat or voice-chat with Stitch, or give an agent a task and let it run the app for you.
+- **Make it yours.** Add skills (plug-ins for any part of Stitch), import Chub.ai character cards, and pick themes or live wallpapers.
 
-The idea that ties them together is **consistency**. Create a character once and they stay the same everywhere — in every picture, every clip, every voice line and every story you play with them.
-
-Everything is generated locally on your own graphics card, so your characters, stories and creations stay on your machine.
+Your characters, stories and creations stay on your machine. Got more than one PC? Link them and Stitch shares the work.
 
 ## Download
 
@@ -38,20 +39,21 @@ You'll need Windows 10 or 11 and an NVIDIA graphics card.
 
 ## Stitch on your phone
 
-The Android app is a remote for Stitch on your PC: chats, stories, characters and generations all run on your graphics card and stay in your library — the phone just drives it, with the same look and every feature.
+The Android app is a remote for Stitch on your PC: chats, stories, characters and generations all run on your graphics card and stay in your library. The phone just drives it, with the same look and every feature.
 
-- **Install** — download `Stitch-Android-<version>.apk` from the [**Releases**](https://github.com/Darker117/stitch-releases/releases/latest) page on your phone and open it (allow installing from your browser when Android asks).
-- **Pair once** — in Stitch on the PC open **Settings → Phone → Pair a phone** and scan the QR code.
-- **Use it anywhere** — at home it talks to your PC over Wi-Fi; turn on **Access from anywhere** to keep going on mobile data.
-- **Make things on the phone too** — text, images and voice can also run on the phone itself (Qualcomm NPU, GPU or CPU); they land in the same library.
+- **Install:** download `Stitch-Android-<version>.apk` from the [**Releases**](https://github.com/Darker117/stitch-releases/releases/latest) page on your phone and open it (allow installing from your browser when Android asks).
+- **Pair once:** in Stitch on the PC, open **Settings → Phone → Pair a phone** and scan the QR code.
+- **Use it anywhere:** at home it talks to your PC over Wi-Fi. Turn on **Access from anywhere** to keep going on mobile data, or connect straight to your PC's own Wi-Fi when there's no internet.
+- **Make things on the phone too:** text, images and voice can also run on the phone itself, so your stories keep working away from your PC and sync back when it's reachable again.
 
 ## A look inside
 
 | | |
 |:---:|:---:|
-| <img src="docs/screenshots/home.png" alt="Home" width="440"><br>Describe what you want to make | <img src="docs/screenshots/stories.png" alt="Stories" width="440"><br>Pick a story and play |
-| <img src="docs/screenshots/characters.png" alt="Character lock" width="440"><br>Create a character once, reuse them everywhere | <img src="docs/screenshots/appearance.png" alt="Appearance settings" width="440"><br>Make it yours — themes and live wallpapers |
+| <img src="docs/screenshots/home.png" alt="The start page" width="440"><br>Ask for anything, or start from a quick idea | <img src="docs/screenshots/stories.png" alt="Stories" width="440"><br>Pick up a story where you left it |
+| <img src="docs/screenshots/characters.png" alt="Characters" width="440"><br>Characters that stay on-model everywhere | <img src="docs/screenshots/music.png" alt="The music library" width="440"><br>Make songs and split them into stems |
+| <img src="docs/screenshots/daw.png" alt="The DAW" width="440"><br>Finish them in the built-in DAW | <img src="docs/screenshots/skills.png" alt="Skills" width="440"><br>Skills add new abilities to any part of Stitch |
 
 ---
 
-<sub>This repository only hosts Stitch's releases — the installers, the Android app and the release notes. Installed copies of Stitch update from here.</sub>
+<sub>This repository only hosts Stitch's releases: the installers, the Android app and the release notes. Installed copies of Stitch update from here.</sub>
